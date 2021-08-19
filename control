@@ -1,0 +1,11 @@
+Package: com.ps.emojisearchforipad
+Name: Emoji Search for iPad
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Enable emoji search on iPadOS 14.0 - 14.4
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 14.5), gsc.ipad
+Depiction: https://poomsmart.github.io/repo/depictions/emojisearchforipad.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojisearchforipad.json
